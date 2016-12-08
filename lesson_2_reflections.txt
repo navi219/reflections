@@ -25,5 +25,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	Commits are interleaved based on retention and timestamp. Deliberate changes to either branch are retained. The diagram shows the points of branching and merging, allowing analysis of component commits.
+
 What are the pros and cons of GitтАЩs automatic merging vs. always doing merges
 manually?
